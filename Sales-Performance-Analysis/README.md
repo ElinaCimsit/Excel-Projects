@@ -47,3 +47,7 @@ The goal of this project was to analyze sales performance over time, compare res
 ## Report Preview
 
 ![Sales Performance Report](screenshots/sales-performance-report.png)
+
+## Excel File
+
+[Open the Excel workbook](files/Sales-Performance-Analysis.xlsx)
