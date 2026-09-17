@@ -12,6 +12,14 @@ Learning project focused on monthly, quarterly, regional, and product category s
 
 [View project](Sales-Performance-Analysis)
 
+### 2. Sales & Profit Analysis with Pivot Tables
+
+Learning project focused on multi-year sales comparison, customer activity, profitability, and sales channel performance using Pivot Tables.
+
+**Skills:** Pivot Tables, multi-year comparison, sales analysis, customer analysis, profitability analysis, percentage calculations, business reporting.
+
+[View project](Pivot-Sales-Profit-Analysis)
+
 ---
 
 This repository includes selected Excel projects focused on practical data analysis and business reporting.
